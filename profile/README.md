@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/discord/933653422530523176?color=%2315A900&logoColor=%23FFFFFF&style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/r4UuPgsA4y)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0BG3dhsYo3AUhhgRo3wbEA?color=%2315A900&logoColor=%23FFFFFF&style=for-the-badge&logo=youtube&label=YouTube)](https://www.youtube.com/channel/UC0BG3dhsYo3AUhhgRo3wbEA)
 
-[Bondex Talent Ecosystem](https://bondex.app/) is a Web3 professional network with fintech capabilities. The Future of work is here. Join the talent revolution!
+[Bondex Talent Ecosystem](https://bondex.app/) is a Web3 Talent Network where users own part of the ecosystem via tokenized rewards. The Future of work is here. Join the talent revolution!
 
 <p align="center">
   <a href="https://apps.apple.com/app/bondex-origin/id1579045181" target="_blank">
