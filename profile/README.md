@@ -1,8 +1,8 @@
-[![Web3, Talent Network, Tokenomics, Crypto, NFTs](https://raw.githubusercontent.com/BondexApp/.github/master/profile/static-files/hero.jpg)](https://bondex.app/)
+[![Web3, Talent Network, Tokenomics, Crypto, NFTs](https://raw.githubusercontent.com/BondexApp/.github/master/profile/static-files/hero.png)](https://bondex.app/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bondexapp?color=%2315A900&logoColor=%23FFFFFF&style=for-the-badge&logo=twitter&label=Twitter)](https://twitter.com/bondexapp)
-[![Discord](https://img.shields.io/discord/933653422530523176?color=%2315A900&logoColor=%23FFFFFF&style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/r4UuPgsA4y)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0BG3dhsYo3AUhhgRo3wbEA?color=%2315A900&logoColor=%23FFFFFF&style=for-the-badge&logo=youtube&label=YouTube)](https://www.youtube.com/channel/UC0BG3dhsYo3AUhhgRo3wbEA)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bondexapp?color=%23007A5A&logoColor=%23FFFFFF&style=for-the-badge&logo=twitter&label=Twitter)](https://twitter.com/bondexapp)
+[![Discord](https://img.shields.io/discord/933653422530523176?color=%23007A5A&logoColor=%23FFFFFF&style=for-the-badge&logo=discord&label=Discord)](https://discord.gg/r4UuPgsA4y)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC0BG3dhsYo3AUhhgRo3wbEA?color=%23007A5A&logoColor=%23FFFFFF&style=for-the-badge&logo=youtube&label=YouTube)](https://www.youtube.com/channel/UC0BG3dhsYo3AUhhgRo3wbEA)
 
 [Bondex Talent Ecosystem](https://bondex.app/) is a Web3 Talent Network where users own part of the ecosystem via tokenized rewards. The Future of work is here. Join the talent revolution!
 
